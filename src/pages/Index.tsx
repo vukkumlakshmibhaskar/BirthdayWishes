@@ -449,6 +449,11 @@ const Index = () => {
       id: 2,
       author: 'Subbu_Bhayya',
       content: "Happy Birthday, Trisha! I hope you have the best day ever! I’m so lucky to have you as my sister. Thanks for always being there for me. Love you so much! 💕"
+    },
+    {
+      id: 3,
+      author: 'Hyma_Senior',
+      content: "Happy Birthday, Trisha!"
     }
   ];
 
