@@ -489,9 +489,14 @@ const Index = () => {
       content: "Happy Birthday, Sis! Ame lohu re bhai-bahini nuhen, kintu ama samparkata semiti majbuta. Mu prati dina tu paain kritagyata anubhaba karuchi  tu paain aneka ananda, prema au hrudaya ra sabu ichha purti heba ra kamana karuchi! 💕🎂"
     },
     {
-      id: 6,
+      id: 7,
       author: 'Satish_Brother',
       content: "Happy birthday to my incredible sister from another mother! Wishing you a day filled with love, laughter, and everything that brings you joy."
+    },
+    {
+      id: 8,
+      author: 'Sravanthi_Senior',
+      content: "Hi Dear!!!....Wishing you many more Happy Returns of the Day Trisha....On this special day I wish you to get all the joy and  happiness from your loved ones...Blast the day Girl 😍....May god bless with you happy and healthy life !! Stay strong dear..."
     }
   ];
 
