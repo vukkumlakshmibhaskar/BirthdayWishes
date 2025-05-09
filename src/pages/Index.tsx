@@ -420,26 +420,38 @@ const Index = () => {
   const timelineEvents: TimelineEventProps[] = [
     {
       date: '2025',
-      title: 'How We Met',
-      description: 'In colors Our friendship get started',
+      title: 'Colors',
+      description: 'The fest that was conducted by our college is named as colors by that fest I have received a  colorful friendship with your bond ...Hoping to remain same and let us continue our friendship by adding more colors .....🙃🤩',
       imageSrc: '/32 (29) - Copy.jpg'
     },
     {
       date: '2025',
-      title: 'Fairwell',
+      title: 'Colors-2ndDay',
+      description: 'Splashing colors and spreading smiles on Day 2 of Colors! 🌈✨ Grateful for friendships that feel like family and for the special junior who make these memories even brighter. Here’s to laughter, love, and endless hues of happiness! 🎉💛',
+      imageSrc: '/32 (28).jpg'
+    },
+    {
+      date: '2025',
+      title: 'Colors-FinalDay',
+      description: 'As the colors fade, the memories stay forever 🎨✨ Wrapping up the final day of Colors with hearts full of laughter, bonds stronger than ever, and moments we'll cherish for a lifetime. Here’s to friendships painted in every shade of joy and togetherness! ❤️💛💙',
+      imageSrc: '32 (23) - Copy.jpg'
+    },
+    {
+      date: '2025',
+      title: 'Farewell',
       description: 'you gave me a photo frame',
       imageSrc: '/27 - Copy.jpg'
     },
     {
       date: '2025',
-      title: 'Fairwell',
-      description: 'Our Bond becomes more stronger',
+      title: 'Farewell',
+      description: 'The bond that we created is turned into more stronger and  Hope to remains Same forever 🖇♾....It is not only a simple picture but the image of more memories and bond 🫂💫',
       imageSrc: '/18 - Copy.jpg'
     },
     {
       date: '2025',
       title: "Signature Day",
-      description: 'Final day Clg, we me you at the late time in college',
+      description: 'Final day of our journey with you.....may be this is the last day but the memories with you lasts forever ☺',
       imageSrc: '/16 - Copy.jpg'
     }
   ];
