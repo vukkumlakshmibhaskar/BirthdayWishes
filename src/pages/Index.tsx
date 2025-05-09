@@ -25,6 +25,54 @@ const Index = () => {
   // Or use online image URLs
   const photos = [
     { 
+      id: 6, 
+      src: '/15.jpg', 
+      alt: 'Memory 6', 
+      caption: '' 
+    },
+    { 
+      id: 8, 
+      src: '/17.jpg', 
+      alt: 'Memory 8', 
+      caption: '' 
+    },
+    { 
+      id: 1, 
+      src: '/18.jpg', 
+      alt: 'Memory 1', 
+      caption: '' 
+    },
+    { 
+      id: 5, 
+      src: '/22.jpg', 
+      alt: 'Memory 5', 
+      caption: '' 
+    },
+    { 
+      id: 3, 
+      src: '/20.jpg', 
+      alt: 'Memory 3', 
+      caption: '' 
+    },
+    { 
+      id: 8, 
+      src: '/32 (29).jpg', 
+      alt: 'Memory 8', 
+      caption: '' 
+    },
+    { 
+      id: 6, 
+      src: '/23.jpg', 
+      alt: 'Memory 6', 
+      caption: '' 
+    },
+    { 
+      id: 2, 
+      src: '/27.jpg', 
+      alt: 'Memory 2', 
+      caption: '' 
+    },
+    { 
       id: 1, 
       src: '/1.jpg', 
       alt: 'Memory 1', 
@@ -103,51 +151,15 @@ const Index = () => {
       caption: '' 
     },
     { 
-      id: 6, 
-      src: '/15.jpg', 
-      alt: 'Memory 6', 
-      caption: '' 
-    },
-    { 
-      id: 8, 
-      src: '/17.jpg', 
-      alt: 'Memory 8', 
-      caption: '' 
-    },
-    { 
-      id: 1, 
-      src: '/18.jpg', 
-      alt: 'Memory 1', 
-      caption: '' 
-    },
-    { 
       id: 2, 
       src: '/19.jpg', 
       alt: 'Memory 2', 
       caption: '' 
     },
     { 
-      id: 3, 
-      src: '/20.jpg', 
-      alt: 'Memory 3', 
-      caption: '' 
-    },
-    { 
       id: 4, 
       src: '/21.jpg', 
       alt: 'Memory 4', 
-      caption: '' 
-    },
-    { 
-      id: 5, 
-      src: '/22.jpg', 
-      alt: 'Memory 5', 
-      caption: '' 
-    },
-    { 
-      id: 6, 
-      src: '/23.jpg', 
-      alt: 'Memory 6', 
       caption: '' 
     },
     { 
@@ -160,12 +172,6 @@ const Index = () => {
       id: 1, 
       src: '/26.jpg', 
       alt: 'Memory 1', 
-      caption: '' 
-    },
-    { 
-      id: 2, 
-      src: '/27.jpg', 
-      alt: 'Memory 2', 
       caption: '' 
     },
     { 
@@ -358,12 +364,6 @@ const Index = () => {
       id: 6, 
       src: '/32 (28).jpg', 
       alt: 'Memory 6', 
-      caption: '' 
-    },
-    { 
-      id: 8, 
-      src: '/32 (29).jpg', 
-      alt: 'Memory 8', 
       caption: '' 
     },
     { 
