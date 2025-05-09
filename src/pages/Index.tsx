@@ -433,7 +433,7 @@ const Index = () => {
     {
       date: '2025',
       title: 'Colors-FinalDay',
-      description: 'As the colors fade, the memories stay forever 🎨✨ Wrapping up the final day of Colors with hearts full of laughter, bonds stronger than ever, and moments we'll cherish for a lifetime. Here’s to friendships painted in every shade of joy and togetherness! ❤️💛💙',
+      description: 'As the colors fade, the memories stay forever 🎨✨ Wrapping up the final day of Colors with hearts full of laughter, bonds stronger than ever ❤️💛💙',
       imageSrc: '32 (23) - Copy.jpg'
     },
     {
