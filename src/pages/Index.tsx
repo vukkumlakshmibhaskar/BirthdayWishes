@@ -43,6 +43,12 @@ const Index = () => {
       caption: '' 
     },
     { 
+      id: 9, 
+      src: '/40.jpg', 
+      alt: 'Memory 4', 
+      caption: '' 
+    },
+    { 
       id: 4, 
       src: '/4.jpg', 
       alt: 'Memory 4', 
@@ -454,6 +460,26 @@ const Index = () => {
       id: 3,
       author: 'Hyma_Senior',
       content: "Happy Birthday, Trisha!"
+    },
+    {
+      id: 4,
+      author: 'Sindhu_Senior',
+      content: "Many more happy returns of the day ra Trisha....enjoy the day...keep smiling🤗😇"
+    },
+    {
+      id: 5,
+      author: 'HemaLatha_Senior',
+      content: "Happy birthday ra thrisa.......God bless u ra.. 🥰😍"
+    },
+    {
+      id: 6,
+      author: 'Afrid_Bhayya',
+      content: "Happy Birthday, Sis! Ame lohu re bhai-bahini nuhen, kintu ama samparkata semiti majbuta. Mu prati dina tu paain kritagyata anubhaba karuchi  tu paain aneka ananda, prema au hrudaya ra sabu ichha purti heba ra kamana karuchi! 💕🎂"
+    },
+    {
+      id: 6,
+      author: 'Satish_Brother',
+      content: "Happy birthday to my incredible sister from another mother! Wishing you a day filled with love, laughter, and everything that brings you joy."
     }
   ];
 
