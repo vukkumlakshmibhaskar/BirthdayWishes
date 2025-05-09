@@ -439,7 +439,7 @@ const Index = () => {
     {
       date: '2025',
       title: 'Farewell',
-      description: 'you gave me a photo frame',
+      description: 'A frame full of memories, a heart full of gratitude — gifting moments that will last a lifetime on our MCA farewell, shared with a junior who made the journey even more special. 🌟📸',
       imageSrc: '/27 - Copy.jpg'
     },
     {
