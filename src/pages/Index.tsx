@@ -74,6 +74,12 @@ const Index = () => {
     },
     { 
       id: 2, 
+      src: '/008.jpg', 
+      alt: 'Memory 2', 
+      caption: '' 
+    },
+    { 
+      id: 2, 
       src: '/005.jpg', 
       alt: 'Memory 2', 
       caption: '' 
@@ -508,21 +514,26 @@ const Index = () => {
     },
     {
       id: 7,
+      author: 'Roopa',
+      content: "Happy birthday lishaaaa! Wishing you a day filled with joy and all the things that make you happy."
+    },
+    {
+      id: 8,
       author: 'Satish_Brother',
       content: "Happy birthday to my incredible sister from another mother! Wishing you a day filled with love, laughter, and everything that brings you joy."
     },
     {
-      id: 8,
+      id: 9,
       author: 'Sravanthi_Senior',
       content: "Hi Dear!!!....Wishing you many more Happy Returns of the Day Trisha....On this special day I wish you to get all the joy and  happiness from your loved ones...Blast the day Girl 😍....May god bless with you happy and healthy life !! Stay strong dear..."
     },
     {
-      id: 9,
+      id: 10,
       author: 'Chandu',
       content: "Wishing you a day filled with love, laughter, and all your favorite things...Happy birthday Trisha papaa...❤"
     },
     {
-      id: 10,
+      id: 11,
       author: 'Kishuu',
       content: "Wishing you a very happy birthday trishaa..may all ur dreams come true..."
     }
