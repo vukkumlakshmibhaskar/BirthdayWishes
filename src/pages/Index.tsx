@@ -73,6 +73,24 @@ const Index = () => {
       caption: '' 
     },
     { 
+      id: 2, 
+      src: '/005.jpg', 
+      alt: 'Memory 2', 
+      caption: '' 
+    },
+    { 
+      id: 2, 
+      src: '/007.jpg', 
+      alt: 'Memory 2', 
+      caption: '' 
+    },
+    { 
+      id: 2, 
+      src: '/006.jpg', 
+      alt: 'Memory 2', 
+      caption: '' 
+    },
+    { 
       id: 1, 
       src: '/1.jpg', 
       alt: 'Memory 1', 
@@ -497,6 +515,16 @@ const Index = () => {
       id: 8,
       author: 'Sravanthi_Senior',
       content: "Hi Dear!!!....Wishing you many more Happy Returns of the Day Trisha....On this special day I wish you to get all the joy and  happiness from your loved ones...Blast the day Girl 😍....May god bless with you happy and healthy life !! Stay strong dear..."
+    },
+    {
+      id: 9,
+      author: 'Chandu',
+      content: "Wishing you a day filled with love, laughter, and all your favorite things...Happy birthday Trisha papaa...❤"
+    },
+    {
+      id: 10,
+      author: 'Kishuu',
+      content: "Wishing you a very happy birthday trishaa..may all ur dreams come true..."
     }
   ];
 
