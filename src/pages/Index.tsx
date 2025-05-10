@@ -536,6 +536,11 @@ const Index = () => {
       id: 11,
       author: 'Kishuu',
       content: "Wishing you a very happy birthday trishaa..may all ur dreams come true..."
+    },
+    {
+      id: 12,
+      author: 'Kiran',
+      content: "Happy Birthday, Trisha! 🎉 Wishing you a day filled with love, laughter, and all the things that make you happiest. May this year bring you endless joy, new adventures, and countless blessings. Always smile 🫂🫶🏻✨💋"
     }
   ];
 
